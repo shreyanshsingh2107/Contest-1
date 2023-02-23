@@ -1,0 +1,18 @@
+nav{
+    background-color: black;
+    height: 40px;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    margin: 30px
+}
+img{
+    height: 500px;
+    width: 1000px;
+}
